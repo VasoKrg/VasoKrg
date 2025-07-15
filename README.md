@@ -2,19 +2,20 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+  - [Airport GUI App](https://github.com/VasoKrg/airport-database-gui-project)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Vasiliki Karagiannidi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vasiliki Karagiannidi | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Vasiliki Karagiannidi | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+  [<img align="left" alt="Vasiliki Karagiannidi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="Vasiliki Karagiannidi | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+  [<img align="left" alt="Vasiliki Karagiannidi | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br/>
 
-[linkedin]: https://www.linkedin.com/in/vasiliki-karagiannidi-5992b0284/
-[github]: https://github.com/VasoKrg
-[email]: mailto:vaso0krg@gmail.com
+  [linkedin]: https://www.linkedin.com/in/vasiliki-karagiannidi-5992b0284/
+  [github]: https://github.com/VasoKrg
+  [email]: mailto:vaso0krg@gmail.com
 
 <!--
 Here are some ideas to get you started:
