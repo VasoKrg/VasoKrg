@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Airport GUI App](https://github.com/VasoKrg/airport-database-gui-project)
+  - [Airport Database System](https://github.com/VasoKrg/airport-database-gui-project)
 
 
 <h2> 🤳 Connect with me:</h2>
