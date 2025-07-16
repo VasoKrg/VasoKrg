@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [Airport Database System](https://github.com/VasoKrg/airport-database-gui-project)
+  - [EEG Emotion Classification THESIS]()
 
 
 <h2> 🤳 Connect with me:</h2>
