@@ -1,4 +1,6 @@
-## Hi, I'm Vasiliki! 👋 
+## Hi 👋 
+
+My name is Vasiliki and I'm an ECE (University of Patras) graduate trained on computer science interested in all things Development - from Python & Data Science to low code solutions!
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
